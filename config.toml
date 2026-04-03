@@ -10,7 +10,7 @@ enableEmoji = true
 theme = "avicenna"
 
 # This is your page title, it appears in your tab
-title = "Stanley Z. Hua"
+title = "Angitha Mriduraj"
 
 # number of posts to show on the blog page
 paginate = 10
@@ -27,4 +27,4 @@ startLevel = 1
 
 [params]
 # it is used for the copy-right section of your page
-name = "Stanley Hua"
+name = "Angitha Mriduraj"
