@@ -35,7 +35,7 @@ academia:
     - course:
         degree: "B.Sc."
         institution:  "University of Toronto"
-        major: "Immunology Specialist"
+        major: "Cell & Systems Biology Specialist"
         start_date: "2019"
         end_date: "2024"
 ---
