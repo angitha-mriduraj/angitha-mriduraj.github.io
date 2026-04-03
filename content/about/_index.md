@@ -40,11 +40,11 @@ academia:
         end_date: "2024"
 ---
 
-**Hi there!** I'm Angitha, and I'm passionate about transforming what we know about immunology into innovative therapies.
+**Hi there!** I’m Angitha, a second-year PhD student in Aereas Aung’s lab. As a budding scientist, I’m passionate about translating what we know about the immune system into innovative therapies.
 
 By focusing on vaccine design and antibody engineering, I aim to:
-1. leverage the natural immune response
-2. create personalized treatments, and
+1. leverage natural immune responses
+2. create personalized treatments
 3. develop accessible therapies for autoimmune diseases
 
 I believe in curiosity-driven science, where small questions, asked carefully and consistently, grow into bigger discoveries.
