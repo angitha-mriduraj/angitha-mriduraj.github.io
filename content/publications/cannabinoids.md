@@ -10,7 +10,7 @@ authors:
 date: "2023-07-21"
 
 links:
-    link: "https://journals.physiology.org/doi/full/10.1152/jn.00460.2022?af=R&utm_source=flipboard&utm_content=topic%2Fhemp"
+    paper: "https://journals.physiology.org/doi/full/10.1152/jn.00460.2022?af=R&utm_source=flipboard&utm_content=topic%2Fhemp"
 
 publication: "Journal of Neurophysiology"
 ---
