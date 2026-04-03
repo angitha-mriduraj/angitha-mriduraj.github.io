@@ -4,54 +4,48 @@ date: 2020-10-20T17:51:47+03:30
 draft: false
 headless: true
 
-full_name: "Stanley Z. Hua"
-profile_picture: "profile.png"
+full_name: "Angitha Mriduraj"
+profile_picture: "profile.jpeg"
 cv: "cv.pdf"
 # set to false if you don't want to show your blog
-blog: true
+blog: false
 
 socials:
-    github: "stan-hua"
-    linkedin: "stanley-z-hua"
-    google_scholar: "citations?user=NInWR_MAAAAJ&hl=en"
+    linkedin: "angitha-mriduraj"
+    google_scholar: "citations?user=buxlhbIAAAAJ&hl=en"
 
 interests:
-    - Trustworthy ML for Health
-    - Accessible Health Tech
+    - Vaccine Development
+    - T-Cell Based Therapies
+    - Autoimmune Diseases
 
 affiliations:
     - affiliation:
-        title: "PhD Student @ UC Berkeley & UCSF"
-        name: "Berkeley, USA"
-        email: "stanley.z.hua@gmail.com"
+        title: "PhD Student @ University of Toronto"
+        name: "Toronto, CA"
+        email: "a.mriduraj@mail.utoronto.ca"
 
 academia:
     - course:
         degree: "PhD."
-        institution:  "University of California, Berkeley"
-        major: "Computational Precision Health"
-        start_date: "2025"
-        end_date: "2030 (Expected)"
-    - course:
-        degree: "PhD."
-        institution:  "University of California, San Francisco"
-        major: "Computational Precision Health"
-        start_date: "2025"
-        end_date: "2030 (Expected)"
+        institution:  "University of Toronto"
+        major: "Immunology"
+        start_date: "2024"
+        end_date: "2029 (Expected)"
     - course:
         degree: "B.Sc."
         institution:  "University of Toronto"
-        major: "Computer Science Specialist"
+        major: "Immunology Specialist"
         start_date: "2019"
         end_date: "2024"
 ---
 
-**Hi!** My name is Stan, and I want to create robust yet cautious machine learning systems that can meaningfully improve patient care, especially for those in under-served communities.
+**Hi there!** I'm Angitha, and I'm passionate about transforming our understanding of immunology into innovative therapies. By focusing on vaccine design and antibody engineering, I aim to:
 
-I care deeply about the usefulness of machine learning when deployed clinically. My current research interests revolve around algorithmic bias and methods to rigorously evaluate and monitor AI.
+1. leverage the natural immune response
+2. create personalized treatments, and
+3. develop accessible therapies for autoimmune diseases
 
-I also believe in [slow science](https://en.wikipedia.org/wiki/Slow_science), which is not about time to completion but about the careful and meticulous art of advancing science.
+I believe in curiosity-driven evidence-based science that pushes the boundaries of knowledge and embraces serendipity to fuel innovative discoveries.
 
-Shoot me an email if you'd like to chat! And if you include the word "stupefy" in your email, I'll know you read this :).
-
-If you'd like to work with me in a mentor-mentee relationship, please fill out this [form](https://tally.so/r/yPyrkg) in addition to shooting me an email!
+Shoot me an email if you’d like to chat! 🙂
