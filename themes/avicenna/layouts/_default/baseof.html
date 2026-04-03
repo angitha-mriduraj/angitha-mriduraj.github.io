@@ -1,13 +1,15 @@
+<!-- layouts/_default/baseof.html -->
 <!DOCTYPE html>
-
-<html lang="{{ with .Site.LanguageCode }}{{.}}{{ else }}en-us{{end}}">
-{{- partial "core/head.html" . -}}
-
-<body class="container d-flex flex-column min-vh-100">
-    {{- block "main" . }}{{- end }}
-
-    {{- partial "core/footer.html" . -}}
-    {{- partial "core/script.html" . -}}
-</body>
-
+<html lang="{{ .Site.Language.Lang }}">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body>
+    {{ partial "nav.html" . }}
+    <div class="container">
+      {{ block "main" . }}{{ end }}
+    </div>
+    {{ partial "footer.html" . }}
+    <script src="/js/antibodies.js"></script>
+  </body>
 </html>
