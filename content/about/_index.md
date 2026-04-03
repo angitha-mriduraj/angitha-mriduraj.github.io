@@ -40,12 +40,13 @@ academia:
         end_date: "2024"
 ---
 
-**Hi there!** I'm Angitha, and I'm passionate about transforming our understanding of immunology into innovative therapies. By focusing on vaccine design and antibody engineering, I aim to:
+**Hi there!** I'm Angitha, and I'm passionate about transforming what we know about immunology into innovative therapies.
 
+By focusing on vaccine design and antibody engineering, I aim to:
 1. leverage the natural immune response
 2. create personalized treatments, and
 3. develop accessible therapies for autoimmune diseases
 
-I believe in curiosity-driven evidence-based science that pushes the boundaries of knowledge and embraces serendipity to fuel innovative discoveries.
+I believe in curiosity-driven science, where small questions, asked carefully and consistently, grow into bigger discoveries.
 
 Shoot me an email if you’d like to chat! 🙂
