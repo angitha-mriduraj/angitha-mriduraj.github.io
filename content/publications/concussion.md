@@ -10,7 +10,7 @@ authors:
 date: "2023-04-15"
 
 links:
-    link: "https://journals.sagepub.com/doi/full/10.1177/00469580231169335"
+    paper: "https://journals.sagepub.com/doi/full/10.1177/00469580231169335"
 
 publication: "INQUIRY: The Journal of Health Care Organization, Provision, and Financing"
 ---
