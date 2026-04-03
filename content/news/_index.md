@@ -13,11 +13,11 @@ num_news: 5
 news_items:
 - text: "Awarded CIHR CGS-M!"
   icon: "award"
-  extra_text: "Apr. 2025."
+  extra_text: "$27K, Apr. 2025."
 - text: "Awarded OGS!"
   icon: "award"
-  extra_text: "Apr. 2025."
-- text: "Started PhD!"
+  extra_text: "$15K, Apr. 2025."
+- text: "Started PhD in the Aung Lab!"
   icon: "send"
   extra_text: "Sept. 2024"
 
